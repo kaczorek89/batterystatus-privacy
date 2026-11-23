@@ -1,4 +1,4 @@
-# BatteryStatus - Privacy Policy
+# BT Battery Status - Privacy Policy
 
 https://kaczorek89.github.io/batterystatus-privacy/
 
